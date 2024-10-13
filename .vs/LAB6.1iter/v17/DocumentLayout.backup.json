@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\source\\repos\\Student\\LAB6.1iter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78C44464-1FBB-496C-AA8D-26EBB8373A0E}|..\\UnitTest6.1iter\\UnitTest6.1iter.vcxproj|D:\\source\\repos\\Student\\UnitTest6.1iter\\UnitTest6.1iter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46D9F076-ECCC-41A5-A49A-AAC627519E1A}|LAB6.1iter.vcxproj|D:\\source\\repos\\Student\\LAB6.1iter\\lab6.1iter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{46D9F076-ECCC-41A5-A49A-AAC627519E1A}|LAB6.1iter.vcxproj|solutionrelative:lab6.1iter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C44464-1FBB-496C-AA8D-26EBB8373A0E}|..\\UnitTest6.1iter\\UnitTest6.1iter.vcxproj|D:\\source\\repos\\Student\\UnitTest6.1iter\\UnitTest6.1iter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,26 +25,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest6.1iter.cpp",
               "DocumentMoniker": "D:\\source\\repos\\Student\\UnitTest6.1iter\\UnitTest6.1iter.cpp",
               "RelativeDocumentMoniker": "..\\UnitTest6.1iter\\UnitTest6.1iter.cpp",
               "ToolTip": "D:\\source\\repos\\Student\\UnitTest6.1iter\\UnitTest6.1iter.cpp",
               "RelativeToolTip": "..\\UnitTest6.1iter\\UnitTest6.1iter.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-13T14:42:51.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "lab6.1iter.cpp",
               "DocumentMoniker": "D:\\source\\repos\\Student\\LAB6.1iter\\lab6.1iter.cpp",
               "RelativeDocumentMoniker": "lab6.1iter.cpp",
               "ToolTip": "D:\\source\\repos\\Student\\LAB6.1iter\\lab6.1iter.cpp",
               "RelativeToolTip": "lab6.1iter.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-13T14:11:35.134Z",
               "EditorCaption": ""
